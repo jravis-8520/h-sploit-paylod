@@ -195,9 +195,4 @@ echo ""
 echo -e "$grn sorry, the  option you looking is not found"
 sleep 2.0
 esac;
-sleep 3.0
-cd
-cd h-sploit-paylod
-cd kit
-cd ncp
-bash opti.sh
+echo ""
