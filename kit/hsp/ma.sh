@@ -40,8 +40,3 @@ bash abt.sh
 echo " "
 echo " "
 fi
-cd 
-cd h-sploit-paylod
-cd kit
-cd ncp
-bash opti.sh

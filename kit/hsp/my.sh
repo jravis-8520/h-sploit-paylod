@@ -39,8 +39,3 @@ sleep 3.0
 echo -e "$pink Press Enter $rset"
 read a1
 fi
-cd 
-cd h-sploit-paylod
-cd kit
-cd ncp
-bash opti.sh
