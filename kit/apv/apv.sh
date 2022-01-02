@@ -63,11 +63,6 @@ apv='android/shell/reverse_https'
 apv='android/shell/reverse_tcp'
 ;;
 00) clear
-cd
-cd h-sploit-paylod
-cd kit
-cd ncp
-bash opti.sh
 ;;
 *) clear
 echo ""
