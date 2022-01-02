@@ -12,7 +12,7 @@ echo "  "
 echo " "
 echo -e "$blue            H$red -$blue SPLOIT$red -$blue PAYLOD $ylo IS RUNNING...$rset"
 echo "  "
-echo -e "$cyan      [ THIS MAY TAKE TIME UPTO$ylo 10 MINUTES$cyan SO WAIT ]$rset"
+echo -e "$pink    [[[$cyan THIS MAY TAKE TIME UPTO$ylo 10 MINUTES$cyan SO WAIT$pink ]]]$rset"
 echo " "
 sleep 3.0
 clear

@@ -35,9 +35,13 @@ echo ""
 sleep 3.0
 xdg-open https://github.com/jravis-8520
 echo " "
+sleep 3.0
+
 echo -e "$pink Press Enter $rset"
 read a1
 fi
 cd 
 cd h-sploit-paylod
-bash h-sploit-paylod.sh
+cd kit
+cd ncp
+bash opti.sh

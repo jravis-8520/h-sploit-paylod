@@ -20,8 +20,8 @@ $ylo ▒█▀▀█ ▒█▀▀▀  ▒█   　 ▒█ ▄▄ ▒█▄▄█
 $cyan ▒█ ▒█ ▒█▄▄▄  ▒█   　 ▒█▄▄█ ▒█ ▒█ ▒█  ▀█ ▒█▄▄▀ ▒█ ▒█ ▄█▄
 "
 sleep 4.0
-echo -e "$blue                        ╔═══════╗"
-echo -e "$blue                        ║$grn About$blue ║"
+echo -e "$blue                      ╔═══════════╗"
+echo -e "$blue                      ║$grn👉 About$blue 👈║"
 echo -e "$blue ╔═══════════════════════════════════════════════════════╗"
 echo -e "$blue ║$grn            🙏 hey, my name is$red Het Gandhi.$blue             ║"
 echo -e "$blue ║$grn         My purpose creates this$red tool$grn easily $blue          ║"
@@ -39,3 +39,8 @@ sleep 10.0
 echo -e "$pink Press Enter $rset"
 sleep 2.0
 read a1
+cd
+cd h-sploit-paylod
+cd kit
+cd ncp
+bash opti.sh

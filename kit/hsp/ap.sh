@@ -42,4 +42,6 @@ echo " "
 fi
 cd 
 cd h-sploit-paylod
-bash h-sploit-paylod.sh
+cd kit
+cd ncp
+bash opti.sh

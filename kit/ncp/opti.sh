@@ -21,10 +21,10 @@ echo ""
 echo -e "$grn      ＞＞＞＞＞＞＞＞＞$ylo [ MENU ]$grn ＜＜＜＜＜＜＜＜＜＜$rset"
 echo ""
 echo -e "$red                   ➡ [01]$blue ANDROID PAYLOD$rset";
-echo -e "$red                   ➡ [05]$blue ABOUT$rset";
-echo -e "$red                   ➡ [02]$blue YOUTUBE$rset";
-echo -e "$red                   ➡ [03]$blue INSTAGRAM$rset";
-echo -e "$red                   ➡ [04]$blue GITHUB$rset";
+echo -e "$red                   ➡ [02]$blue ABOUT$rset";
+echo -e "$red                   ➡ [03]$blue YOUTUBE$rset";
+echo -e "$red                   ➡ [04]$blue INSTAGRAM$rset";
+echo -e "$red                   ➡ [05]$blue GITHUB$rset";
 echo -e "$red                   ➡ [00]$blue EXIT$rset";
 echo ""
 echo -e "$grn      ＞＞＞＞＞＞＞＞＞$ylo [SELECT]$grn ＜＜＜＜＜＜＜＜＜＜$rset"
@@ -44,35 +44,42 @@ sleep 2.0
 cd
 cd h-sploit-paylod
 cd kit
-cd pav
-bash ab.sh
+cd hsp
+bash ma.sh
 sleep 2.0
 ;;
 03)
 cd
 cd h-sploit-paylod
 cd kit
-cd pav
-bash mf.sh
+cd hsp
+bash my.sh
 sleep 2.0
 ;;
 04)
 cd
 cd h-sploit-paylod
 cd kit
-cd pav
-bash mg.sh
+cd hsp
+bash mi.sh
 sleep 2.0
 ;;
 05)
 cd
 cd h-sploit-paylod
 cd kit
-cd pav
-bash my.sh
+cd hsp
+bash mg.sh
 sleep 2.0
 ;;
 00) clear
+echo ""
+echo ""
+echo -e "$cyan                        THANK U  "
+echo -e "$ylo                    FOR USING MY TOOL  "
+echo -e "$cyan                    I HOPE u LIKE IT  "
+echo ""
+echo ""
 exit
 ;;
 *) clear

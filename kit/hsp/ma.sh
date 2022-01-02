@@ -36,10 +36,12 @@ cd
 cd h-sploit-paylod
 cd kit
 cd abt
-bash about.sh
+bash abt.sh
 echo " "
 echo " "
 fi
 cd 
 cd h-sploit-paylod
-bash h-sploit-paylod.sh
+cd kit
+cd ncp
+bash opti.sh
