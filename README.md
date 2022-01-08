@@ -5,7 +5,7 @@
 
 ## ABOUT
   
-H-SPLOIT-PAYLOD is a bash based script which is officially made for HACKING users of termux from this tool in just one click you can CREATE PAYLOD OF METASPLOIT. This tool works on both rooted Android device and Non-rooted Android device.
+H-SPLOIT-PAYLOD is a officially made for HACKING users of termux from this tool in just one click you can CREATE PAYLOD OF METASPLOIT. This tool works on both rooted Android device and Non-rooted Android device.
 
 ## SCREENSHOT
 ![h-sploit-payload github](https://user-images.githubusercontent.com/67777622/148094409-be060442-343a-4345-a086-7804b7418601.png)
