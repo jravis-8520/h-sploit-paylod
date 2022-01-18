@@ -63,6 +63,7 @@ apv='android/shell/reverse_https'
 apv='android/shell/reverse_tcp'
 ;;
 00) clear
+exit
 ;;
 *) clear
 echo ""
